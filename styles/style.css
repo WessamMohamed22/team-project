@@ -1,0 +1,27 @@
+h1 {
+  color: #333;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+}
+p {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+div,
+main {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+}
+img {
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  display: block;
+  margin: 10px auto;
+}
